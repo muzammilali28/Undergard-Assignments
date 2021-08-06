@@ -7,10 +7,10 @@
 -> Enter data in the file in format of Rows and Colums.
 
 ::file.txt::
-4 5 6 8 9  //Row 0
-3 5 8 9    //Row 1
-2 1 2      //Row 2
-1 7        //Row 3
+4 5 6 8 9
+3 5 8 9
+2 1 2
+1 7
 
 -> Cope paste the (main.cpp) code in your coding file having ".cpp" extension
 -> Save your ".cpp" file.
