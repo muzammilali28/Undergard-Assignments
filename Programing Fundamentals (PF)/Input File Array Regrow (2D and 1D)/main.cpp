@@ -7,6 +7,7 @@ int *regrow1D(int*,int,int);
 
 int main()
 {
+	//Set your input file name here!
 	ifstream fin("file.txt");
 	
 	int colsize=0;
