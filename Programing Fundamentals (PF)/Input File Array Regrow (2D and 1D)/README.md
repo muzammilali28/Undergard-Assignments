@@ -14,7 +14,7 @@
 
 -> Cope paste the (main.cpp) code in your coding file having ".cpp" extension
 -> Save your ".cpp" file.
--> Paste your "file.txt" in the same folder where your code file is.
+-> Paste your "file.txt" in the same folder where your code file is saved.
 -> Compile and RUN your program.
 
 "---Thank You---"
