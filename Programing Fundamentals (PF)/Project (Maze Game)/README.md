@@ -7,7 +7,7 @@
 <br/>
 *You can update the files according to your liking (No. of Row and Columns) at the start and then the whole sketch of the Maze below it*<br/>
 <br/>
-4 4            //Rows Columns<br/>
+4 4 <t/>//Rows Columns<br/>
 <br/>
 1 -2 -2 0     //Row 0(Whole Maze Sketch)<br/>
 1  1 -2 0     //Row 1<br/>
