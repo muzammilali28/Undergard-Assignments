@@ -1,2 +1,0 @@
-Regrow is the concept of dynamically allocating values to an exsisting array and append new data to it using dynamic memory allocation. It is done using pointers and using the Heap's
-memory.
