@@ -7,7 +7,7 @@
 <br/>
 *You can update the files according to your liking (No. of Row and Columns) at the start and then the whole sketch of the Maze below it*<br/>
 <br/>
-::hard.txt::<br/><br/>
+----hard.txt----<br/>
 4 4 <br/>
 <br/>
 1 -2 -2 0     <br/>
