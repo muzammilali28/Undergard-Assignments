@@ -8,7 +8,7 @@
 -> Make an input file with name "file.txt".
 -> Enter data in the file in format of Rows and Colums.
 
-::file.txt::
+----file.txt----
 4 5 6 8 9
 3 5 8 9
 2 1 2
