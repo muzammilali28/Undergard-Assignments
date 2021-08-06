@@ -30,10 +30,6 @@ int main()
 		}
 		
 		cout<<endl<<"Max Sum (index): "<<index<<endl;
-		
-		/*cout<<"Index "<<index<<" : "<<line1[index]<<endl;
-		cout<<"Index "<<index<<" : "<<line2[index]<<endl;
-		cout<<"Index "<<index<<" : "<<line3[index];*/
 	}
 	else
 	{
