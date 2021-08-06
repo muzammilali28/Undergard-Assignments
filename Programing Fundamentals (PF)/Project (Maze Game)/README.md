@@ -1,6 +1,8 @@
 <pre>
 //Working IDE's
--> This code works on Visual Studio 2013 (That I have tested till yet)
+-> Works on (Visual Studio 2013)
+-> Works on (Dev C++)
+*** I have testes the project on the above mentioned IDE's ***
 
 //How to RUN
 -> Copy paste all the ".txt" files in your Project Folder.
