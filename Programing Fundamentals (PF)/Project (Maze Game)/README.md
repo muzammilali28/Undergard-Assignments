@@ -7,12 +7,12 @@
 <br/>
 *You can update the files according to your liking (No. of Row and Columns) at the start and then the whole sketch of the Maze below it*<br/>
 <br/>
-4 4 <t/>//Rows Columns<br/>
+4 4 <br/>
 <br/>
-1 -2 -2 0     //Row 0(Whole Maze Sketch)<br/>
-1  1 -2 0     //Row 1<br/>
--2 1 1 -2     //Row 2<br/>
--2 -2 1 1     //Row 3<br/>
+1 -2 -2 0     <br/>
+1  1 -2 0     <br/>
+-2 1 1 -2     <br/>
+-2 -2 1 1     <br/>
 <br/>
 -> Cope paste the (GameMenu.cpp) code in your coding file having ".cpp" extension.<br/>
 -> Save your ".cpp" file.<br/>
