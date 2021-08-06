@@ -1,0 +1,8 @@
+Ali 24
+Haider 30
+Qasim 30
+Kashif 30
+Obaid 30
+Player1 0
+YoYo 35
+Raju 20
