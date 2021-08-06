@@ -2,7 +2,7 @@
 //Working IDE's
 -> Works on (Visual Studio 2013)
 -> Works on (Dev C++)
-*** I have testes the project on the above mentioned IDE's ***
+*** I have tested the project on the above mentioned IDE's ***
 
 //How to RUN
 -> Copy paste all the ".txt" files in your Project Folder.
