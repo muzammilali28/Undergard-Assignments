@@ -9,11 +9,11 @@
 
 ::hard.txt::
 4 4            //Rows <space> Columns
-
-1  -2  -2  0   //Row 0 (Whole Maze Sketch)
-1   1  -2  0   //Row 1
--2  1  1  -2   //Row 2
--2 -2  1   1   //Row 3
+  
+  1  -2  -2  0   //Row 0 (Whole Maze Sketch)
+  1   1  -2  0   //Row 1
+  -2  1  1  -2   //Row 2
+  -2 -2  1   1   //Row 3
 
 -> Cope paste the (GameMenu.cpp) code in your coding file having ".cpp" extension.
 -> Save your ".cpp" file.
