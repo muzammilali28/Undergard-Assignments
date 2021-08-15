@@ -16,6 +16,6 @@ All the programming concepts that I have learned up till now are in Assignments 
 2. Extract the files.
 3. Open the folder named "VS 2013 Setup" and open "vs_ultimate.exe"<br>
 4. After installing, Press (Windows + S) and type "Visual Studio 2013" and Open it.<br>
-5. Now go back to your Extracted Files Folder and To get the Product Key hover to "UltKey.txt" and Copy the Key from there.<br>
+5. Now go back to your Extracted Files Folder now to get the Product Key hover to "UltKey.txt" and Copy the Key from there.<br>
 6. Open the Image "VS2013-Enter-Key.jpg" and follow the instructions there to register the Product Key.<br><br>
 <pre>Disconnect you internet (Wifi / LAN) first then register the key to avoid any errors/bugs after reconnect your internet after</pre>
