@@ -1,0 +1,10 @@
+cat
+wood
+desk
+cat
+table
+apple
+honey
+honey
+cat
+wood
