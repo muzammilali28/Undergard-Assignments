@@ -1,4 +1,4 @@
-# Undergrad-Assignments-and-Projects
+# Undergrad-Assignments
 All the programming concepts that I have learned up till now are in Assignments , Projects and Practice LAB's.
 
 <b>---->All the Resources<----</b><br><br>
