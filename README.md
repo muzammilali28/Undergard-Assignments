@@ -1,5 +1,5 @@
 # Undergrad-Assignments
-All the programming concepts that I have learned up till now are in Assignments , Projects and Practice LAB's.
+All the programming concepts that I have learned up till now are in Assignments and Practice LAB's.
 
 <b>---->All the Resources<----</b><br><br>
 :books: <b>Assembly Language DosBox<b> : https://drive.google.com/drive/folders/1G2eLcdFQZhG1MnL0zm00wPfUHjIlQ6Yk?usp=sharing <br><br>
