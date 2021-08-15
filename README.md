@@ -23,5 +23,5 @@ I would personally suggest to go for Windows Installation because I have used it
 6. Open the Image "VS2013-Enter-Key.jpg" and follow the instructions there to register the Product Key.<br><br>
 <pre>
 ** ALERT! **
-Disconnect you internet (Wifi / LAN) first then register the key to avoid any errors/bugs after reconnect your internet after
+Disconnect you internet (Wifi / LAN) first then register the key to avoid any errors/bugs, reconnect your internet after
 </pre>
