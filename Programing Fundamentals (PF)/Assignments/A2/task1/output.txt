@@ -1,0 +1,9 @@
+we : 2
+set : 3
+out : 3
+at : 2
+dawn; : 4
+the : 3
+weather : 7
+looked : 6
+promising. : 9
