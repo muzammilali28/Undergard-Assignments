@@ -1,2 +1,2 @@
 # Question
-## Write the program for deletion process in BST , whole tree and also a single node.
+## Write the program for deletion process in BST , whole tree and also a single node using iterative method.
