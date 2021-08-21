@@ -108,7 +108,7 @@ CREATE TABLE transaction (
 
 INSERT INTO transaction VALUES ('tr101',-30000,'2016-01-08',NULL,'sbABL303','debited amount for personal use','ABLB101'),('tr1010',-26000,'2017-05-07',NULL,'sbUBL105','For home renovation','UBLB202'),('tr1011',27000,'2017-06-06',NULL,'sbMCB101','For Employees salries','MCB202'),('tr1012',-23000,'2018-01-05',NULL,'sbMCB101','For purchasing LED','MCB203'),('tr1013',-32000,'2018-02-04',NULL,'sbMCB100','debited amount for personal use','MCB203'),('tr1014',30000,'2017-03-03',NULL,'sbMCB100','For purchasing LED','MCB202'),('tr102',800000,'2017-02-07',NULL,'sbABL303','credited amount of sold car','ABLB102'),('tr103',30000,'2016-03-06',NULL,'sbUBL204','For Office use','UBLB101'),('tr104',28000,'2017-04-05',NULL,'sbUBL204','For utility bills','UBLB103'),('tr105',-25000,'2016-05-04',NULL,'sbUBL103','For Employees salaries','UBLB201'),('tr106',20000,'2018-01-03',NULL,'sbUBL103','salary credited','UBLB202'),('tr107',-15500,'2016-02-02',NULL,'sbABL107','debited amount for personal use','ABLB203'),('tr108',12000,'2016-03-01',NULL,'sbABL107','For Office use','ABLB203'),('tr109',14000,'2017-04-08',NULL,'sbUBL105','For utility bills','UBLB201'),('tr201',900000,'2017-04-09','lbABL501',NULL,'For purchasing AC','ABLB202'),('tr2010',60000,'2017-05-02','lbUBL301',NULL,'For purchasing Mobile Phone','UBLB103'),('tr2011',90000,'2017-07-03','lbUBL201',NULL,'For purchasing AC','UBLB201'),('tr2012',95000,'2017-08-04','lbUBL201',NULL,'For purchasing Laptop','UBLB202'),('tr2013',20000,'2017-09-05','lbMCB701',NULL,'For purchasing AC','MCB202'),('tr2014',15000,'2017-10-08','lbMCB701',NULL,'For purchasing Washing Machine','MCB203'),('tr202',85000,'2017-04-10','lbABL501',NULL,'For purchasing LED','ABLB203'),('tr203',95000,'2017-05-09','lbABL502',NULL,'For purchasing Fridge','ABLB301'),('tr204',100000,'2017-04-11','lbABL502',NULL,'For purchasing Furniture for office','ABLB303'),('tr205',175000,'2017-03-11','lbABL601',NULL,'For purchasing Home Furniture','ABLB203'),('tr206',150000,'2017-04-05','lbABL601',NULL,'For purchasing LED','ABLB202'),('tr207',40000,'2017-01-09','lbUBL401',NULL,'For purchasing UPS','UBLB201'),('tr208',30000,'2017-02-09','lbUBL401',NULL,'For purchasing LED','UBLB201'),('tr209',70000,'2017-03-09','lbUBL301',NULL,'For purchasing Car tyres','UBLB101');
 
---Q1
+--Q.1
 create table Employee(
 Eid varchar (10) NOT NULL,
 Branch_ID varchar(15),
@@ -120,20 +120,20 @@ PRIMARY KEY(Eid),
 FOREIGN KEY(Branch_ID) REFERENCES Branch(branch_id) on delete cascade on update cascade
 );
 
---Q2
+--Q.2
 alter table Employee add Designation varchar (25);
 describe Employee;
 
---Q3
+--Q.3
 alter table loanaccounts modify max_credit INT(11) DEFAULT 10000;
 describe loanaccounts;
 
---Q4
+--Q.4
 alter table Employee modify Age INT;
 describe Employee;
 
---Q5
+--Q.5
 alter table Transaction add CONSTRAINT FOREIGN KEY(eid) REFERENCES Employee(Eid);
-/*Assumption -for--Q5
+/*Assumption -for--Q.5
 This command will work only if the Data is Inserted in the Employee Table and then the Foreign Key in Employee Table is declared.
 Because at this point the Employee table only have a structure but doesn’t have values to insert into it (because it was not given in Question) so the query will not work at the moment*/
