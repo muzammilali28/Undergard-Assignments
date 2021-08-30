@@ -1,0 +1,87 @@
+body
+{
+    background: url("./images/bg.jpeg") no-repeat center center fixed;
+    margin: 0;
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+}
+
+.navBar
+{
+    width: 100%;
+    text-align: right;
+    position: relative;
+    top: 12px;
+    right: 12px;
+}
+
+.navBar a
+{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+    color: #fdfaf6;
+    font-family: 'Oswald', sans-serif;
+}
+
+.mainHeading
+{
+    position: relative;
+    top: 20px;
+}
+
+.mainHeading h2
+{
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    bottom: 17px;
+    left: 10px;
+    color: #fdfaf6;
+    font-size: 60px;
+}
+
+#img2
+{
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.introClass
+{
+    position: relative;
+    width: 100%;
+    top: 20px;
+}
+
+.introClass img
+{
+    position: relative;
+    bottom: 27px;
+}
+
+.introClass p
+{
+    display: inline-block;
+    width: 30%;
+    font-size: 20px;
+    margin: auto;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.introClass hr
+{
+    margin: auto;
+    border: none;
+    width: 5%;
+    border-top-style: dotted;
+    border-color: #fdfaf6;
+    height: 10px;
+    border-width: 8px;
+}
