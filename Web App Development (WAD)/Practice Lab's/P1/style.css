@@ -1,0 +1,27 @@
+body{
+    background-image: url('background.jpg');
+}
+span{
+    float: right;   
+}
+h1{
+    font-size: 80px;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+#bottom{
+    position: absolute;
+    margin: 8% 27%;
+}
+#round{
+    border-radius: 100%;
+}
+
+/*a{
+    padding: 23px;
+    color: red;
+}*/
